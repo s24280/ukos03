@@ -6,3 +6,7 @@ int main() {
 	std::cout << "Srednia z nich wynosi: " << (a+b+c+d)/4;
 	return 0;
 }
+
+
+
+//tylko cos sprawdzam
